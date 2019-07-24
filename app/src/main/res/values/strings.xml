@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ModernMovies</string>
+    <string name="api_key">89a2ee79b8481747564f32b8683d6e40</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
